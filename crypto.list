@@ -1,0 +1,60 @@
+# Crypto
+
+# Browser
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,etherscan.com
+DOMAIN-SUFFIX,ethplorer.io
+DOMAIN-SUFFIX,etherchain.org  
+DOMAIN-SUFFIX,blockchair.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,tronscan.org
+DOMAIN-SUFFIX,trongrid.io  
+DOMAIN-SUFFIX,trxplorer.io
+DOMAIN-SUFFIX,blockchain.info
+DOMAIN-SUFFIX,blockchain.com
+DOMAIN-SUFFIX,blockexplorer.com
+DOMAIN-SUFFIX,intotheblock.com  
+DOMAIN-SUFFIX,bitcoinblockexplorers.com
+DOMAIN-SUFFIX,blockcypher.com
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,viawallet.com
+DOMAIN-SUFFIX,btc.com 
+
+# Exchange
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,ftx.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,pionex.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,mxc.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,coinlist.co
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,uniswap.org
+
+# BTC
+DOMAIN-SUFFIX,bitcoin.org
+
+# News
+DOMAIN-SUFFIX,feixiaohao.com
+DOMAIN-SUFFIX,feixiaohao.cc
+DOMAIN-SUFFIX,feixiaohao.co
+DOMAIN-SUFFIX,qkl123.com
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,chainnews.com
+DOMAIN-SUFFIX,bybt.com
+
+# Other
+DOMAIN-SUFFIX,token.im
+DOMAIN-SUFFIX,tokenpocket.pro
+DOMAIN-SUFFIX,safepal.io

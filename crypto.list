@@ -2,23 +2,6 @@
 
 # Browser
 DOMAIN-SUFFIX,etherscan.io
-DOMAIN-SUFFIX,etherscan.com
-DOMAIN-SUFFIX,ethplorer.io
-DOMAIN-SUFFIX,etherchain.org  
-DOMAIN-SUFFIX,blockchair.com
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,fontawesome.com
-DOMAIN-SUFFIX,tronscan.org
-DOMAIN-SUFFIX,trongrid.io  
-DOMAIN-SUFFIX,trxplorer.io
-DOMAIN-SUFFIX,blockchain.info
-DOMAIN-SUFFIX,blockchain.com
-DOMAIN-SUFFIX,blockexplorer.com
-DOMAIN-SUFFIX,intotheblock.com  
-DOMAIN-SUFFIX,bitcoinblockexplorers.com
-DOMAIN-SUFFIX,blockcypher.com
-DOMAIN-SUFFIX,bootstrapcdn.com
-DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,viawallet.com
 DOMAIN-SUFFIX,btc.com 
 
@@ -33,6 +16,7 @@ DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,mxc.io
 DOMAIN-SUFFIX,mxc.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,bitmex.com
@@ -47,6 +31,7 @@ DOMAIN-SUFFIX,bitcoin.org
 # News
 DOMAIN-KEYWORD,feixiaohao
 DOMAIN-SUFFIX,feixiaoquan.com
+DOMAIN-SUFFIX,bqrank.net
 DOMAIN-SUFFIX,qkl123.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,coinmarketcap.com

@@ -45,9 +45,7 @@ DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,bitcoin.org
 
 # News
-DOMAIN-SUFFIX,feixiaohao.com
-DOMAIN-SUFFIX,feixiaohao.cc
-DOMAIN-SUFFIX,feixiaohao.co
+DOMAIN-KEYWORD,feixiaohao
 DOMAIN-SUFFIX,qkl123.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,coinmarketcap.com

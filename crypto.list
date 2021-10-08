@@ -7,8 +7,10 @@ DOMAIN-SUFFIX,btc.com
 
 # Exchange
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.im
 DOMAIN-SUFFIX,binancezh.com
 DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,ftx.com
@@ -27,6 +29,7 @@ DOMAIN-SUFFIX,bitcoin.org
 
 # News
 DOMAIN-KEYWORD,feixiaohao
+DOMAIN-SUFFIX,fxhapp.com
 DOMAIN-SUFFIX,qkl123.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,coinmarketcap.com

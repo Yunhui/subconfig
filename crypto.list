@@ -8,13 +8,14 @@ DOMAIN-SUFFIX,btc.com
 # Exchange
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,binancezh
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,pionex.com
+DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,mxc.io

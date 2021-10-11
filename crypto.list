@@ -6,9 +6,8 @@ DOMAIN-SUFFIX,viawallet.com
 DOMAIN-SUFFIX,btc.com 
 
 # Exchange
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.im
-DOMAIN-SUFFIX,binancezh.com
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,binancezh
 DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,okex.com

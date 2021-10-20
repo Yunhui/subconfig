@@ -23,9 +23,9 @@ DOMAIN-SUFFIX,mxc.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,coinlist.co
-DOMAIN-KEYWORD,dodoex.io
-DOMAIN-KEYWORD,dodoex.co
-DOMAIN-KEYWORD,debank.com
+DOMAIN-SUFFIX,dodoex.io
+DOMAIN-SUFFIX,dodoex.co
+DOMAIN-SUFFIX,debank.com
 
 # BTC
 DOMAIN-SUFFIX,bitcoin.org

@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,btc.com
 # Exchange
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,binancezh
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okx-dns.com

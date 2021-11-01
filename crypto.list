@@ -22,8 +22,8 @@ DOMAIN-SUFFIX,dodoex.co
 DOMAIN-SUFFIX,debank.com
 
 # Binance
-DOMAIN-KEYWORD,binance
-DOMAIN-KEYWORD,binancezh
+DOMAIN-KEYWORD,binance.
+DOMAIN-KEYWORD,binancezh.
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnappzh.com
@@ -37,9 +37,9 @@ DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okx-dns.com
 
 # Huobi
-DOMAIN-KEYWORD,huobi
-DOMAIN-KEYWORD,l10n-pro
-DOMAIN-KEYWORD,l10n-dm
+DOMAIN-KEYWORD,huobi.
+DOMAIN-KEYWORD,l10n-pro.
+DOMAIN-KEYWORD,l10n-dm.
 DOMAIN-SUFFIX,huobiotc.com
 DOMAIN-SUFFIX,hbwsi.com
 DOMAIN-SUFFIX,eiijo.cn
@@ -56,7 +56,7 @@ DOMAIN-SUFFIX,ri16.com
 DOMAIN-SUFFIX,bitcoin.org
 
 # News
-DOMAIN-KEYWORD,feixiaohao
+DOMAIN-KEYWORD,feixiaohao.
 DOMAIN-SUFFIX,qkl123.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,coinmarketcap.com

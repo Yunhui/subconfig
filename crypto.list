@@ -37,7 +37,10 @@ DOMAIN-SUFFIX,okx-dns.com
 
 # Huobi
 DOMAIN-KEYWORD,huobi
+DOMAIN-KEYWORD,l10n-pro
+DOMAIN-KEYWORD,l10n-dm
 DOMAIN-SUFFIX,huobiotc.com
+DOMAIN-SUFFIX,hbwsi.com
 DOMAIN-SUFFIX,eiijo.cn
 DOMAIN-SUFFIX,bitbit.vip
 DOMAIN-SUFFIX,bitanb.com
@@ -46,6 +49,7 @@ DOMAIN-SUFFIX,bitderiv.com
 DOMAIN-SUFFIX,hecoview.com
 DOMAIN-SUFFIX,hecoview.com
 DOMAIN-SUFFIX,hbfile.net
+DOMAIN-SUFFIX,ri16.com
 
 # BTC
 DOMAIN-SUFFIX,bitcoin.org

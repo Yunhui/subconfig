@@ -6,18 +6,6 @@ DOMAIN-SUFFIX,viawallet.com
 DOMAIN-SUFFIX,btc.com 
 
 # Exchange
-DOMAIN-KEYWORD,binance
-DOMAIN-KEYWORD,binancezh
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bnappzh.com
-DOMAIN-SUFFIX,bnbzh.ac
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okcoin.com
-DOMAIN-SUFFIX,okx-dns.com
-DOMAIN-KEYWORD,ouyi
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,pionex.com
@@ -32,6 +20,32 @@ DOMAIN-SUFFIX,coinlist.co
 DOMAIN-SUFFIX,dodoex.io
 DOMAIN-SUFFIX,dodoex.co
 DOMAIN-SUFFIX,debank.com
+
+# Binance
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,binancezh
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,bnbzh.ac
+
+# OKEX
+DOMAIN-KEYWORD,ouyi
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okx-dns.com
+
+# Huobi
+DOMAIN-KEYWORD,huobi
+DOMAIN-SUFFIX,huobiotc.com
+DOMAIN-SUFFIX,eiijo.cn
+DOMAIN-SUFFIX,bitbit.vip
+DOMAIN-SUFFIX,bitanb.com
+DOMAIN-SUFFIX,bitvj.com
+DOMAIN-SUFFIX,bitderiv.com
+DOMAIN-SUFFIX,hecoview.com
+DOMAIN-SUFFIX,hecoview.com
+DOMAIN-SUFFIX,hbfile.net
 
 # BTC
 DOMAIN-SUFFIX,bitcoin.org

@@ -22,8 +22,8 @@ DOMAIN-SUFFIX,dodoex.co
 DOMAIN-SUFFIX,debank.com
 
 # Binance
-DOMAIN-KEYWORD,binance.
-DOMAIN-KEYWORD,binancezh.
+DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,binancezh
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnappzh.com
@@ -32,12 +32,13 @@ DOMAIN-SUFFIX,bnbzh.ac
 # OKEX
 DOMAIN-KEYWORD,ouyi.
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,coinall.ltd
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okx-dns.com
 
 # Huobi
-DOMAIN-KEYWORD,huobi.
+DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,l10n-pro.
 DOMAIN-KEYWORD,l10n-dm.
 DOMAIN-SUFFIX,huobiotc.com

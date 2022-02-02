@@ -12,18 +12,15 @@ DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,mxc.io
-DOMAIN-SUFFIX,mxc.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,coinlist.co
-DOMAIN-SUFFIX,dodoex.io
-DOMAIN-SUFFIX,dodoex.co
 DOMAIN-SUFFIX,debank.com
+DOMAIN-KEYWORD,mexc.com
+DOMAIN-KEYWORD,dodoex.
 
 # Binance
 DOMAIN-KEYWORD,binance
-DOMAIN-KEYWORD,binancezh
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnappzh.com
@@ -53,11 +50,8 @@ DOMAIN-SUFFIX,hecoview.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,ri16.com
 
-# BTC
-DOMAIN-SUFFIX,bitcoin.org
-
 # News
-DOMAIN-KEYWORD,feixiaohao.
+DOMAIN-KEYWORD,feixiaohao
 DOMAIN-SUFFIX,qkl123.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,coinmarketcap.com
@@ -71,3 +65,4 @@ DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,safepal.io
 DOMAIN-SUFFIX,fmz.com
 DOMAIN-SUFFIX,antpool.com
+DOMAIN-SUFFIX,bitcoin.org

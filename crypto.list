@@ -7,12 +7,10 @@ DOMAIN-KEYWORD,uniswap
 DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,isafepal
 
-
-
 # Browser
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,viawallet.com
-DOMAIN-SUFFIX,btc.com 
+DOMAIN-SUFFIX,btc.com
 
 # Exchange
 DOMAIN-SUFFIX,ftx.com
@@ -67,11 +65,11 @@ DOMAIN-SUFFIX,coinglass.com
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,zapper.fi
 DOMAIN-SUFFIX,pancakeswap.finance
-DOMAIN-SUFFIX,kswap.finance // kswap
-DOMAIN-SUFFIX,coingecko.com // coingecko
-DOMAIN-SUFFIX,coinmarketcap.com // coinmarketcap
-DOMAIN-SUFFIX,tradingview.com // tradingview
-DOMAIN-SUFFIX,cryptocompare.com // cryptocompare
+DOMAIN-SUFFIX,kswap.finance
+DOMAIN-SUFFIX,coingecko.com 
+DOMAIN-SUFFIX,coinmarketcap.com 
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,cryptocompare.com 
 
 DOMAIN-SUFFIX,zks.app
 DOMAIN-SUFFIX,zks.org

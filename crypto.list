@@ -31,11 +31,10 @@ DOMAIN-SUFFIX,bscscan.com
 
 # Binance
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,saasexch
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bnappzh.com
-DOMAIN-SUFFIX,saasexch.com
-DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,bntrace.com
 
 

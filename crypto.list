@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,bscscan.com
 # Binance
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,saasexch
+DOMAIN-KEYWORD,saasexch
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bnappzh.com
@@ -39,11 +40,13 @@ DOMAIN-SUFFIX,bntrace.com
 
 
 # OKEX
+DOMAIN-KEYWORD,okx.
 DOMAIN-KEYWORD,ouyi.
+DOMAIN-KEYWORD,cnouyi.
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,okx.me
+DOMAIN-SUFFIX,coinall.ltd
+
 
 # News
 DOMAIN-KEYWORD,feixiaohao

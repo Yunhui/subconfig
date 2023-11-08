@@ -1,11 +1,7 @@
 # Crypto
 
 # Crypto Exchange
-DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,huobi
-DOMAIN-KEYWORD,uniswap
-DOMAIN-KEYWORD,bybit
-DOMAIN-KEYWORD,isafepal
 
 # Browser
 DOMAIN-SUFFIX,etherscan.io
@@ -24,14 +20,13 @@ DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,coinlist.co
 DOMAIN-SUFFIX,debank.com
-DOMAIN-KEYWORD,mexc.com
+DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,bscscan.com
 
 
 # Binance
 DOMAIN-KEYWORD,binance
-DOMAIN-KEYWORD,saasexch
 DOMAIN-KEYWORD,saasexch
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,bnappzh.co
@@ -40,13 +35,12 @@ DOMAIN-SUFFIX,bntrace.com
 
 
 # OKEX
-DOMAIN-KEYWORD,okx.
-DOMAIN-KEYWORD,ouyi.
-DOMAIN-KEYWORD,cnouyi.
-DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,okx.cpm
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,coinall.ltd
-
+DOMAIN-KEYWORD,ouyi
+DOMAIN-KEYWORD,cnouyi
 
 # News
 DOMAIN-KEYWORD,feixiaohao
@@ -75,7 +69,6 @@ DOMAIN-SUFFIX,loopring.org
 DOMAIN-SUFFIX,loopring.io
 DOMAIN-SUFFIX,loopring.network
 DOMAIN-SUFFIX,ipdata.co
-DOMAIN-SUFFIX,api.loopring.network
 
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tongke.top

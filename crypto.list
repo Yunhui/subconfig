@@ -1,7 +1,4 @@
-# Crypto
-
 # Crypto Exchange
-DOMAIN-KEYWORD,huobi
 
 # Browser
 DOMAIN-SUFFIX,etherscan.io
@@ -24,7 +21,6 @@ DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,bscscan.com
 
-
 # Binance
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,saasexch
@@ -35,8 +31,7 @@ DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,yingwangtech.net
 DOMAIN-SUFFIX,dashiyirui.net
 
-
-# OKEX
+# OKX
 DOMAIN-SUFFIX,okpool.top
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okex.com
